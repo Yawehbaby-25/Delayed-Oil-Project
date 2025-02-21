@@ -14,8 +14,12 @@ This Analysis covers
 * Ambiguity of the contract documents.
 * Inadequate documentation.
 * Multiple change orders.
-* Insufficient management of contractor design and construction interfaces.
+
+**Methodology**
+
+ Insufficient management of contractor design and construction interfaces.
 * Insufficient and inexperienced owner technical personnel.
 * Inadequate baseline schedule development and updating by contractors.
 * Insufficient and unreliable integrated Master Project Schedule.
-
+ ___
+###Data Source
