@@ -26,7 +26,7 @@ This Analysis covers
 The clients provided the data set as a CSV file, which was downloaded and processed for analysis.
 
 **Key Questions to Address**
-_ What is delayed oil project?
-_ How long does it take to start up an oil project?
-_ How much does it take to start up an oil project?
+1_  What is delayed oil project?
+2_  How long does it take to start up an oil project?
+3_  How much does it take to start up an oil project?
 
