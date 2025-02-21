@@ -17,7 +17,7 @@ This Analysis covers
 
 **Methodology**
 
- Insufficient management of contractor design and construction interfaces.
+* Insufficient management of contractor design and construction interfaces.
 * Insufficient and inexperienced owner technical personnel.
 * Inadequate baseline schedule development and updating by contractors.
 * Insufficient and unreliable integrated Master Project Schedule.
@@ -26,7 +26,10 @@ This Analysis covers
 The clients provided the data set as a CSV file, which was downloaded and processed for analysis.
 
 **Key Questions to Address**
+
 1_  What is delayed oil project?
+
 2_  How long does it take to start up an oil project?
+
 3_  How much does it take to start up an oil project?
 
