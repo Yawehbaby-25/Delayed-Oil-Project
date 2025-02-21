@@ -33,3 +33,5 @@ The clients provided the data set as a CSV file, which was downloaded and proces
 
 3_  How much does it take to start up an oil project?
 
+4_  W hat is the total number of efficient trucks?
+
