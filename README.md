@@ -23,3 +23,10 @@ This Analysis covers
 * Insufficient and unreliable integrated Master Project Schedule.
  ___
 ### DATA SOURCE
+The clients provided the data set as a CSV file, which was downloaded and processed for analysis.
+
+**Key Questions to Address**
+. What is delayed oil project?
+. How long does it take to start up an oil project?
+. How much does it take to start up an oil projec?
+
